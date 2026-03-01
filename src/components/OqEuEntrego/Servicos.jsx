@@ -7,7 +7,7 @@ import Headset from "../../assets/icons/headset.png";
 
 export default function Servicos() {
   return (
-    <div id="OqueEuEntrego">
+    <>
       <div className="servico">
         <div className="titulo">
           <img src={Landing} alt="" />
@@ -82,6 +82,6 @@ export default function Servicos() {
           </a>
         </div>
       </div>
-    </div>
+    </>
   );
 }

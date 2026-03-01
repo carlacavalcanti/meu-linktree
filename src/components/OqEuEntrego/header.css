@@ -53,17 +53,11 @@
   max-width: 900px;
   padding: 0 1rem;
 }
-@keyframes flutuar {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.08); /* vai pra frente */
-  }
-  100% {
-    transform: scale(1);
-  }
+.hero-content span {
+  color: green;
+  font-size: clamp(2rem, 5vw, 4rem);
 }
+
 @media (min-width: 768px) {
   .hero {
     height: 60vh;
