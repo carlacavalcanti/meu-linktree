@@ -1,16 +1,16 @@
-#Meu Linktree
+Meu Linktree
 
 Uma página de links personalizada e responsiva construída com React + Vite para agrupar e apresentar landing pages já feitas por mim, de forma simples, moderna e otimizada para mobile. Adicionando também uma landing page que apresenta o que ofereço em meu serviço.
 
 🔗 Visualize o site: https://meu-linktree-theta.vercel.app/
 
-##Sobre o Projeto
+Sobre o Projeto
 
 O Meu Linktree é uma aplicação front-end que funciona como uma página de centralização de links — semelhante ao serviço Linktree — permitindo que usuários organizem seus principais perfis e canais em um único lugar.
 
 Esse tipo de página é muito usada por criadores de conteúdo, profissionais independentes e empresas para destacar seus principais canais, contatos e portfolios online.
 
-##Objetivos
+Objetivos
 
 Este projeto foi desenvolvido com propósito de:
 
@@ -22,14 +22,14 @@ Este projeto foi desenvolvido com propósito de:
 
 -Construir uma interface simples, responsiva e intuitiva;
 
-##Funcionalidades
+Funcionalidades
 
 - Página central de links organizada
 - Responsiva para dispositivos mobile e desktop
 - Estrutura limpa e de fácil manutenção
 - Deploy automático via Vercel
 
-##Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Esse projeto utiliza as tecnologias a seguir:
 
@@ -45,7 +45,7 @@ Vercel – plataforma de deploy rápido para aplicações estáticas
 
 
 
-##Estrutura do Projeto
+Estrutura do Projeto
 📦 meu-linktree
  ┣ 📂 src
  ┃ ┣ 📂 assets
@@ -55,7 +55,7 @@ Vercel – plataforma de deploy rápido para aplicações estáticas
  ┣ index.html
  ┗ .gitignore
 
-##Como Executar Localmente
+Como Executar Localmente
 
 Para rodar o projeto em desenvolvimento:
 git clone https://github.com/carlacavalcanti/meu-linktree.git
