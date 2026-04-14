@@ -21,7 +21,7 @@ export const links = [
   },
   {
     icon: WhatsApp,
-    url: "https://wa.me/5584999752332",
+    url: "https://wa.me/5584991134386",
     title: "Fale comigo",
   },
 ];

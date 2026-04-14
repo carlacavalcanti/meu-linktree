@@ -74,7 +74,7 @@ export default function Servicos() {
         <div className="cta">
           <a
             className="button-whats"
-            href="https://wa.me/5584999752332"
+            href="https://wa.me/5584991134386"
             target="_blank"
             rel="noopener noreferrer"
           >
